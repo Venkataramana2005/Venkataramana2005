@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Venkataramana
 
 ## 🚀 Professional Summary
-Python Developer and Data Science Enthusiast with expertise in building scalable backend systems and data-driven applications. I currently learning to specialize in creating robust APIs with FastAPI, implementing machine learning solutions, and developing efficient data analysis pipelines. Currently focused on leveraging modern technologies to solve complex problems and deliver data-driven insights.
+Python Developer & AI Student with growing expertise in Python development, machine learning, artificial intelligence, and database management. I'm currently learning to be Skilled in building backend applications, working with data-driven solutions, and implementing machine learning models to solve real-world problems. Currently focused on enhancing my knowledge in FastAPI, SQLAlchemy, and model deployment, while developing efficient systems that combine data science and software engineering for intelligent automation and insights.
 
 ---
 
@@ -38,9 +38,9 @@ Python Developer and Data Science Enthusiast with expertise in building scalable
 
 ## 🌱 Currently Learning
 - Advanced Machine Learning Techniques
+- AI Development
 - API Development Best Practices
-- Data Engineering Pipelines
-- Cloud Computing Fundamentals
+- Data Base
 
 ---
 
