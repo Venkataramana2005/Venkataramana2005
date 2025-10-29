@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Venkataramana
 
 ## 🚀 Professional Summary
-Python Developer and Data Science Enthusiast with expertise in building scalable backend systems and data-driven applications. I specialize in creating robust APIs with FastAPI, implementing machine learning solutions, and developing efficient data analysis pipelines. Currently focused on leveraging modern technologies to solve complex problems and deliver data-driven insights.
+Python Developer and Data Science Enthusiast with expertise in building scalable backend systems and data-driven applications. I currently learning to specialize in creating robust APIs with FastAPI, implementing machine learning solutions, and developing efficient data analysis pipelines. Currently focused on leveraging modern technologies to solve complex problems and deliver data-driven insights.
 
 ---
 
