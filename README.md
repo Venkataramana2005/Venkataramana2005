@@ -53,10 +53,4 @@ Python Developer and Data Science Enthusiast with expertise in building scalable
 
 ---
 
-## 📫 How to Reach Me
-
-Feel free to connect with me for collaborations, projects, or professional opportunities.
-
----
-
 ⭐️ From [Venkataramana2005](https://github.com/Venkataramana2005)
