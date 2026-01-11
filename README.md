@@ -29,15 +29,6 @@ Student and aspiring Python Developer specializing in Machine Learning, AI, and 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Venkataramana2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkataramana2005&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <!-- Add your top 3-4 projects here when you have them -->
